@@ -9,7 +9,7 @@ You can easily join your Zoom meeting by using these Python code
   <li> Zoom Settings -> Audio -> "click" automaticaly join with audio and mic off
   <li> Zoom Settings -> Keyboard Shortcut -> End Meeting -> change shortcut with "W" and activate it
   <li> Download PyCharm -> https://www.jetbrains.com/pycharm/download/#section=windows
-  <li> New environment using <b>Virtualenv</b>
+  <li> When create new project on PyCharm you need to select New environment using <b>Virtualenv</b>
 </ul>
 
 
